@@ -1,0 +1,158 @@
+.container { position:relative; padding:0 0 0 55px; }
+#sidebar {
+    position:absolute;
+    top:0; bottom:0; left:0;
+    width:50px;
+    background:#000;
+}
+
+#header { border:1px solid #000; width:100px; height:20px; 
+    margin:0 0 5px 0;
+}
+#content { border:1px solid #000; width:100px; height:50px;
+    margin:5px 0 5px 0;
+}
+#footer { border:1px solid #000; width:100px; height:20px;
+    margin:5px 0 0 0;
+}
+
+
+
+
+
+.nav a {
+    text-shadow: 2px 2px 10px;
+    border-radius: 10px;
+    border-color: firebrick;
+    background-color: gainsboro;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+   display: inline;
+ font-family:sans-serif;
+ font-size: 20px;
+}
+
+.jumbotron {
+  background-image:url(http://fc01.deviantart.net/fs37/f/2008/253/f/9/Unlimited_Bladeworks_FSN_by_elite5472.png);
+  height:500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+color:white !important; 
+  font-size: 48px;  
+  font-family: 'shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+    
+  font-size: 20px;
+  color: azure;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+.neighborhood-guides{
+    border-radius: 25px;
+display:block;
+border-bottom: 1px solid #dbdbdb;
+}
+
+.neighborhood-guides h2 {
+   
+    color: black;
+    font-size: 24px;
+}
+.neighborhood-guides p 
+{
+    font-size: 15px;
+    margin-bottom: 13px;
+    font-weight: bold;
+    
+    
+}
+.neighborhood-guides img {
+}
+
+.form {
+text-align:center;
+ }
+ 
+ .form img{
+height:100px;
+width:100px;
+  }
+
+.servantchoice{
+display:inline;
+ }
+ 
+ .itemchoice{
+ display:inline;
+  }
+  
+.neighborhood-guides .container img{
+display:inline;
+height:150px;
+width:150px;
+margin-left:auto;
+margin-right:auto;
+padding-left:10px;
+padding-right:10px;
+padding-bottom:10px;
+ }
+
+.registerforwebsite {
+text-align: center;
+padding-top: 30px;
+}
+    
+.register-group
+{
+font-style: italic
+}
+
+.fieldheading
+{
+text-align: center;
+    font-family: fantasy
+}
+
+#sidebar
+{ 
+    background-color:deepskyblue; 
+    padding: 10px; 
+    width:20%;
+    height:100%; 
+
+}
+
+.comptable{
+    background-color: azure;
+    border-radius: 5px;
+    
+}
